@@ -9,6 +9,11 @@ _cfg.language = {
    zh_hans = '%d/分钟',
    en = '%d/min',
   },
+  [20101] = {
+   id = 20101,
+   zh_hans = '当前等级:%d',
+   en = 'LV:%d',
+  },
   [10001] = {
    id = 10001,
    zh_hans = '金币',
