@@ -134,6 +134,26 @@ _cfg.language = {
    zh_hans = '强化等级:%d',
    en = 'LV:%d',
   },
+  [100002] = {
+   id = 100002,
+   zh_hans = '非法参数2',
+   en = 'illegal paramters2',
+  },
+  [100003] = {
+   id = 100003,
+   zh_hans = '角色等级不足',
+   en = 'player level is too low',
+  },
+  [100004] = {
+   id = 100004,
+   zh_hans = '材料不足',
+   en = 'consume goods not enough',
+  },
+  [100001] = {
+   id = 100001,
+   zh_hans = '非法参数1',
+   en = 'illegal paramters1',
+  },
   [1001] = {
    id = 1001,
    zh_hans = '生命: %g',
