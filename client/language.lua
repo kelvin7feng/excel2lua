@@ -1,18 +1,18 @@
 _cfg.language = {
   [1] = {
    id = 1,
-   zh_hans = '%d/分钟',
-   en = '%d/min',
+   zh_hans = '{1}/分钟',
+   en = '{1}/min',
   },
   [2] = {
    id = 2,
-   zh_hans = '%d/分钟',
-   en = '%d/min',
+   zh_hans = '{1}/分钟',
+   en = '{1}/min',
   },
   [20101] = {
    id = 20101,
-   zh_hans = '当前等级:%d',
-   en = 'LV:%d',
+   zh_hans = '当前等级:{1}',
+   en = 'LV:{1}',
   },
   [10001] = {
    id = 10001,
@@ -129,25 +129,45 @@ _cfg.language = {
    zh_hans = '戒指',
    en = 'ring',
   },
-  [20001] = {
-   id = 20001,
-   zh_hans = '强化等级:%d',
-   en = 'LV:%d',
+  [100004] = {
+   id = 100004,
+   zh_hans = '材料不足',
+   en = 'consume goods not enough',
   },
   [100002] = {
    id = 100002,
    zh_hans = '非法参数2',
    en = 'illegal paramters2',
   },
+  [20001] = {
+   id = 20001,
+   zh_hans = '强化等级:{1}',
+   en = 'LV:{1}',
+  },
+  [20002] = {
+   id = 20002,
+   zh_hans = '强化成功',
+   en = 'Equip Level Up',
+  },
+  [2001] = {
+   id = 2001,
+   zh_hans = '玩家等级提升到{1}级',
+   en = 'level up to {1}',
+  },
+  [20003] = {
+   id = 20003,
+   zh_hans = '装备成功',
+   en = 'Wear Successfully',
+  },
   [100003] = {
    id = 100003,
    zh_hans = '角色等级不足',
    en = 'player level is too low',
   },
-  [100004] = {
-   id = 100004,
-   zh_hans = '材料不足',
-   en = 'consume goods not enough',
+  [20004] = {
+   id = 20004,
+   zh_hans = '卸下成功',
+   en = 'Take off Successfully',
   },
   [100001] = {
    id = 100001,

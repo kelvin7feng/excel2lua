@@ -23,7 +23,7 @@ _cfg.goods = {
    languageId = 10003,
    name = '经验',
    goodsType = 3,
-   isBag = 0,
+   isBag = 1,
    extraCfg = '',
   },
   [1004] = {
