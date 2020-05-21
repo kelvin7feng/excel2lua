@@ -51,7 +51,7 @@ _cfg.playerLevelUp = {
   },
   [3] = {
    id = 3,
-   levelUpExp = 300,
+   levelUpExp = 400,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -76,7 +76,7 @@ _cfg.playerLevelUp = {
   },
   [4] = {
    id = 4,
-   levelUpExp = 400,
+   levelUpExp = 600,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -101,7 +101,7 @@ _cfg.playerLevelUp = {
   },
   [5] = {
    id = 5,
-   levelUpExp = 500,
+   levelUpExp = 1000,
    attr1 = 100,
    unit1 = 1,
    attr2 = 0,
@@ -126,7 +126,7 @@ _cfg.playerLevelUp = {
   },
   [6] = {
    id = 6,
-   levelUpExp = 600,
+   levelUpExp = 10000,
    attr1 = 10,
    unit1 = 1,
    attr2 = 0,
@@ -151,7 +151,7 @@ _cfg.playerLevelUp = {
   },
   [7] = {
    id = 7,
-   levelUpExp = 700,
+   levelUpExp = 10000,
    attr1 = 20,
    unit1 = 1,
    attr2 = 1,
@@ -176,7 +176,7 @@ _cfg.playerLevelUp = {
   },
   [8] = {
    id = 8,
-   levelUpExp = 800,
+   levelUpExp = 10000,
    attr1 = 10,
    unit1 = 1,
    attr2 = 0,
@@ -201,7 +201,7 @@ _cfg.playerLevelUp = {
   },
   [9] = {
    id = 9,
-   levelUpExp = 900,
+   levelUpExp = 10000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -226,7 +226,7 @@ _cfg.playerLevelUp = {
   },
   [10] = {
    id = 10,
-   levelUpExp = 1000,
+   levelUpExp = 10000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -251,7 +251,7 @@ _cfg.playerLevelUp = {
   },
   [11] = {
    id = 11,
-   levelUpExp = 1100,
+   levelUpExp = 20000,
    attr1 = 100,
    unit1 = 1,
    attr2 = 0,
@@ -276,7 +276,7 @@ _cfg.playerLevelUp = {
   },
   [12] = {
    id = 12,
-   levelUpExp = 1200,
+   levelUpExp = 20000,
    attr1 = 10,
    unit1 = 1,
    attr2 = 0,
@@ -301,7 +301,7 @@ _cfg.playerLevelUp = {
   },
   [13] = {
    id = 13,
-   levelUpExp = 1300,
+   levelUpExp = 20000,
    attr1 = 30,
    unit1 = 1,
    attr2 = 1,
@@ -326,7 +326,7 @@ _cfg.playerLevelUp = {
   },
   [14] = {
    id = 14,
-   levelUpExp = 1400,
+   levelUpExp = 20000,
    attr1 = 10,
    unit1 = 1,
    attr2 = 0,
@@ -351,7 +351,7 @@ _cfg.playerLevelUp = {
   },
   [15] = {
    id = 15,
-   levelUpExp = 1500,
+   levelUpExp = 20000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -376,7 +376,7 @@ _cfg.playerLevelUp = {
   },
   [16] = {
    id = 16,
-   levelUpExp = 1600,
+   levelUpExp = 40000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -401,7 +401,7 @@ _cfg.playerLevelUp = {
   },
   [17] = {
    id = 17,
-   levelUpExp = 1700,
+   levelUpExp = 40000,
    attr1 = 10,
    unit1 = 1,
    attr2 = 0,
@@ -426,7 +426,7 @@ _cfg.playerLevelUp = {
   },
   [18] = {
    id = 18,
-   levelUpExp = 1800,
+   levelUpExp = 40000,
    attr1 = 30,
    unit1 = 1,
    attr2 = 0,
@@ -451,7 +451,7 @@ _cfg.playerLevelUp = {
   },
   [19] = {
    id = 19,
-   levelUpExp = 1900,
+   levelUpExp = 40000,
    attr1 = 40,
    unit1 = 1,
    attr2 = 1,
@@ -476,7 +476,7 @@ _cfg.playerLevelUp = {
   },
   [20] = {
    id = 20,
-   levelUpExp = 2000,
+   levelUpExp = 40000,
    attr1 = 10,
    unit1 = 1,
    attr2 = 0,
@@ -501,7 +501,7 @@ _cfg.playerLevelUp = {
   },
   [21] = {
    id = 21,
-   levelUpExp = 2100,
+   levelUpExp = 60000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -526,7 +526,7 @@ _cfg.playerLevelUp = {
   },
   [22] = {
    id = 22,
-   levelUpExp = 2200,
+   levelUpExp = 60000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -551,7 +551,7 @@ _cfg.playerLevelUp = {
   },
   [23] = {
    id = 23,
-   levelUpExp = 2300,
+   levelUpExp = 60000,
    attr1 = 10,
    unit1 = 1,
    attr2 = 0,
@@ -576,7 +576,7 @@ _cfg.playerLevelUp = {
   },
   [24] = {
    id = 24,
-   levelUpExp = 2400,
+   levelUpExp = 60000,
    attr1 = 10,
    unit1 = 1,
    attr2 = 0,
@@ -601,7 +601,7 @@ _cfg.playerLevelUp = {
   },
   [25] = {
    id = 25,
-   levelUpExp = 2500,
+   levelUpExp = 60000,
    attr1 = 50,
    unit1 = 1,
    attr2 = 1,
@@ -626,7 +626,7 @@ _cfg.playerLevelUp = {
   },
   [26] = {
    id = 26,
-   levelUpExp = 2600,
+   levelUpExp = 80000,
    attr1 = 10,
    unit1 = 1,
    attr2 = 0,
@@ -651,7 +651,7 @@ _cfg.playerLevelUp = {
   },
   [27] = {
    id = 27,
-   levelUpExp = 2700,
+   levelUpExp = 80000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -676,7 +676,7 @@ _cfg.playerLevelUp = {
   },
   [28] = {
    id = 28,
-   levelUpExp = 2800,
+   levelUpExp = 80000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -701,7 +701,7 @@ _cfg.playerLevelUp = {
   },
   [29] = {
    id = 29,
-   levelUpExp = 2900,
+   levelUpExp = 80000,
    attr1 = 10,
    unit1 = 1,
    attr2 = 0,
@@ -726,7 +726,7 @@ _cfg.playerLevelUp = {
   },
   [30] = {
    id = 30,
-   levelUpExp = 3000,
+   levelUpExp = 80000,
    attr1 = 10,
    unit1 = 1,
    attr2 = 0,
@@ -751,7 +751,7 @@ _cfg.playerLevelUp = {
   },
   [31] = {
    id = 31,
-   levelUpExp = 3100,
+   levelUpExp = 100000,
    attr1 = 60,
    unit1 = 1,
    attr2 = 1,
@@ -776,7 +776,7 @@ _cfg.playerLevelUp = {
   },
   [32] = {
    id = 32,
-   levelUpExp = 3200,
+   levelUpExp = 200000,
    attr1 = 10,
    unit1 = 1,
    attr2 = 0,
@@ -801,7 +801,7 @@ _cfg.playerLevelUp = {
   },
   [33] = {
    id = 33,
-   levelUpExp = 3300,
+   levelUpExp = 300000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -826,7 +826,7 @@ _cfg.playerLevelUp = {
   },
   [34] = {
    id = 34,
-   levelUpExp = 3400,
+   levelUpExp = 400000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -851,7 +851,7 @@ _cfg.playerLevelUp = {
   },
   [35] = {
    id = 35,
-   levelUpExp = 3500,
+   levelUpExp = 500000,
    attr1 = 100,
    unit1 = 1,
    attr2 = 0,
@@ -876,7 +876,7 @@ _cfg.playerLevelUp = {
   },
   [36] = {
    id = 36,
-   levelUpExp = 3600,
+   levelUpExp = 600000,
    attr1 = 10,
    unit1 = 1,
    attr2 = 0,
@@ -901,7 +901,7 @@ _cfg.playerLevelUp = {
   },
   [37] = {
    id = 37,
-   levelUpExp = 3700,
+   levelUpExp = 700000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -926,7 +926,7 @@ _cfg.playerLevelUp = {
   },
   [38] = {
    id = 38,
-   levelUpExp = 3800,
+   levelUpExp = 800000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -951,7 +951,7 @@ _cfg.playerLevelUp = {
   },
   [39] = {
    id = 39,
-   levelUpExp = 3900,
+   levelUpExp = 900000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -976,7 +976,7 @@ _cfg.playerLevelUp = {
   },
   [40] = {
    id = 40,
-   levelUpExp = 4000,
+   levelUpExp = 1000000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1001,7 +1001,7 @@ _cfg.playerLevelUp = {
   },
   [41] = {
    id = 41,
-   levelUpExp = 4100,
+   levelUpExp = 1100000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1026,7 +1026,7 @@ _cfg.playerLevelUp = {
   },
   [42] = {
    id = 42,
-   levelUpExp = 4200,
+   levelUpExp = 1200000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1051,7 +1051,7 @@ _cfg.playerLevelUp = {
   },
   [43] = {
    id = 43,
-   levelUpExp = 4300,
+   levelUpExp = 1300000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1076,7 +1076,7 @@ _cfg.playerLevelUp = {
   },
   [44] = {
    id = 44,
-   levelUpExp = 4400,
+   levelUpExp = 1400000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1101,7 +1101,7 @@ _cfg.playerLevelUp = {
   },
   [45] = {
    id = 45,
-   levelUpExp = 4500,
+   levelUpExp = 1500000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1126,7 +1126,7 @@ _cfg.playerLevelUp = {
   },
   [46] = {
    id = 46,
-   levelUpExp = 4600,
+   levelUpExp = 1600000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1151,7 +1151,7 @@ _cfg.playerLevelUp = {
   },
   [47] = {
    id = 47,
-   levelUpExp = 4700,
+   levelUpExp = 1700000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1176,7 +1176,7 @@ _cfg.playerLevelUp = {
   },
   [48] = {
    id = 48,
-   levelUpExp = 4800,
+   levelUpExp = 1800000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1201,7 +1201,7 @@ _cfg.playerLevelUp = {
   },
   [49] = {
    id = 49,
-   levelUpExp = 4900,
+   levelUpExp = 1900000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1226,7 +1226,7 @@ _cfg.playerLevelUp = {
   },
   [50] = {
    id = 50,
-   levelUpExp = 5000,
+   levelUpExp = 2000000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1251,7 +1251,7 @@ _cfg.playerLevelUp = {
   },
   [51] = {
    id = 51,
-   levelUpExp = 5100,
+   levelUpExp = 2100000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1276,7 +1276,7 @@ _cfg.playerLevelUp = {
   },
   [52] = {
    id = 52,
-   levelUpExp = 5200,
+   levelUpExp = 2200000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1301,7 +1301,7 @@ _cfg.playerLevelUp = {
   },
   [53] = {
    id = 53,
-   levelUpExp = 5300,
+   levelUpExp = 2300000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1326,7 +1326,7 @@ _cfg.playerLevelUp = {
   },
   [54] = {
    id = 54,
-   levelUpExp = 5400,
+   levelUpExp = 2400000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1351,7 +1351,7 @@ _cfg.playerLevelUp = {
   },
   [55] = {
    id = 55,
-   levelUpExp = 5500,
+   levelUpExp = 2500000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1376,7 +1376,7 @@ _cfg.playerLevelUp = {
   },
   [56] = {
    id = 56,
-   levelUpExp = 5600,
+   levelUpExp = 2600000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1401,7 +1401,7 @@ _cfg.playerLevelUp = {
   },
   [57] = {
    id = 57,
-   levelUpExp = 5700,
+   levelUpExp = 2700000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1426,7 +1426,7 @@ _cfg.playerLevelUp = {
   },
   [58] = {
    id = 58,
-   levelUpExp = 5800,
+   levelUpExp = 2800000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1451,7 +1451,7 @@ _cfg.playerLevelUp = {
   },
   [59] = {
    id = 59,
-   levelUpExp = 5900,
+   levelUpExp = 2900000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1476,7 +1476,7 @@ _cfg.playerLevelUp = {
   },
   [60] = {
    id = 60,
-   levelUpExp = 6000,
+   levelUpExp = 3000000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1501,7 +1501,7 @@ _cfg.playerLevelUp = {
   },
   [61] = {
    id = 61,
-   levelUpExp = 6100,
+   levelUpExp = 3100000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1526,7 +1526,7 @@ _cfg.playerLevelUp = {
   },
   [62] = {
    id = 62,
-   levelUpExp = 6200,
+   levelUpExp = 3200000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1551,7 +1551,7 @@ _cfg.playerLevelUp = {
   },
   [63] = {
    id = 63,
-   levelUpExp = 6300,
+   levelUpExp = 3300000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1576,7 +1576,7 @@ _cfg.playerLevelUp = {
   },
   [64] = {
    id = 64,
-   levelUpExp = 6400,
+   levelUpExp = 3400000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1601,7 +1601,7 @@ _cfg.playerLevelUp = {
   },
   [65] = {
    id = 65,
-   levelUpExp = 6500,
+   levelUpExp = 3500000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1626,7 +1626,7 @@ _cfg.playerLevelUp = {
   },
   [66] = {
    id = 66,
-   levelUpExp = 6600,
+   levelUpExp = 3600000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1651,7 +1651,7 @@ _cfg.playerLevelUp = {
   },
   [67] = {
    id = 67,
-   levelUpExp = 6700,
+   levelUpExp = 3700000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1676,7 +1676,7 @@ _cfg.playerLevelUp = {
   },
   [68] = {
    id = 68,
-   levelUpExp = 6800,
+   levelUpExp = 3800000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1701,7 +1701,7 @@ _cfg.playerLevelUp = {
   },
   [69] = {
    id = 69,
-   levelUpExp = 6900,
+   levelUpExp = 3900000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1726,7 +1726,7 @@ _cfg.playerLevelUp = {
   },
   [70] = {
    id = 70,
-   levelUpExp = 7000,
+   levelUpExp = 4000000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1751,7 +1751,7 @@ _cfg.playerLevelUp = {
   },
   [71] = {
    id = 71,
-   levelUpExp = 7100,
+   levelUpExp = 4100000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1776,7 +1776,7 @@ _cfg.playerLevelUp = {
   },
   [72] = {
    id = 72,
-   levelUpExp = 7200,
+   levelUpExp = 4200000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1801,7 +1801,7 @@ _cfg.playerLevelUp = {
   },
   [73] = {
    id = 73,
-   levelUpExp = 7300,
+   levelUpExp = 4300000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1826,7 +1826,7 @@ _cfg.playerLevelUp = {
   },
   [74] = {
    id = 74,
-   levelUpExp = 7400,
+   levelUpExp = 4400000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1851,7 +1851,7 @@ _cfg.playerLevelUp = {
   },
   [75] = {
    id = 75,
-   levelUpExp = 7500,
+   levelUpExp = 4500000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1876,7 +1876,7 @@ _cfg.playerLevelUp = {
   },
   [76] = {
    id = 76,
-   levelUpExp = 7600,
+   levelUpExp = 4600000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1901,7 +1901,7 @@ _cfg.playerLevelUp = {
   },
   [77] = {
    id = 77,
-   levelUpExp = 7700,
+   levelUpExp = 4700000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1926,7 +1926,7 @@ _cfg.playerLevelUp = {
   },
   [78] = {
    id = 78,
-   levelUpExp = 7800,
+   levelUpExp = 4800000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1951,7 +1951,7 @@ _cfg.playerLevelUp = {
   },
   [79] = {
    id = 79,
-   levelUpExp = 7900,
+   levelUpExp = 4900000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -1976,7 +1976,7 @@ _cfg.playerLevelUp = {
   },
   [80] = {
    id = 80,
-   levelUpExp = 8000,
+   levelUpExp = 5000000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2001,7 +2001,7 @@ _cfg.playerLevelUp = {
   },
   [81] = {
    id = 81,
-   levelUpExp = 8100,
+   levelUpExp = 5100000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2026,7 +2026,7 @@ _cfg.playerLevelUp = {
   },
   [82] = {
    id = 82,
-   levelUpExp = 8200,
+   levelUpExp = 5200000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2051,7 +2051,7 @@ _cfg.playerLevelUp = {
   },
   [83] = {
    id = 83,
-   levelUpExp = 8300,
+   levelUpExp = 5300000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2076,7 +2076,7 @@ _cfg.playerLevelUp = {
   },
   [84] = {
    id = 84,
-   levelUpExp = 8400,
+   levelUpExp = 5400000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2101,7 +2101,7 @@ _cfg.playerLevelUp = {
   },
   [85] = {
    id = 85,
-   levelUpExp = 8500,
+   levelUpExp = 5500000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2126,7 +2126,7 @@ _cfg.playerLevelUp = {
   },
   [86] = {
    id = 86,
-   levelUpExp = 8600,
+   levelUpExp = 5600000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2151,7 +2151,7 @@ _cfg.playerLevelUp = {
   },
   [87] = {
    id = 87,
-   levelUpExp = 8700,
+   levelUpExp = 5700000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2176,7 +2176,7 @@ _cfg.playerLevelUp = {
   },
   [88] = {
    id = 88,
-   levelUpExp = 8800,
+   levelUpExp = 5800000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2201,7 +2201,7 @@ _cfg.playerLevelUp = {
   },
   [89] = {
    id = 89,
-   levelUpExp = 8900,
+   levelUpExp = 5900000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2226,7 +2226,7 @@ _cfg.playerLevelUp = {
   },
   [90] = {
    id = 90,
-   levelUpExp = 9000,
+   levelUpExp = 6000000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2251,7 +2251,7 @@ _cfg.playerLevelUp = {
   },
   [91] = {
    id = 91,
-   levelUpExp = 9100,
+   levelUpExp = 6100000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2276,7 +2276,7 @@ _cfg.playerLevelUp = {
   },
   [92] = {
    id = 92,
-   levelUpExp = 9200,
+   levelUpExp = 6200000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2301,7 +2301,7 @@ _cfg.playerLevelUp = {
   },
   [93] = {
    id = 93,
-   levelUpExp = 9300,
+   levelUpExp = 6300000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2326,7 +2326,7 @@ _cfg.playerLevelUp = {
   },
   [94] = {
    id = 94,
-   levelUpExp = 9400,
+   levelUpExp = 6400000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2351,7 +2351,7 @@ _cfg.playerLevelUp = {
   },
   [95] = {
    id = 95,
-   levelUpExp = 9500,
+   levelUpExp = 6500000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2376,7 +2376,7 @@ _cfg.playerLevelUp = {
   },
   [96] = {
    id = 96,
-   levelUpExp = 9600,
+   levelUpExp = 6600000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2401,7 +2401,7 @@ _cfg.playerLevelUp = {
   },
   [97] = {
    id = 97,
-   levelUpExp = 9700,
+   levelUpExp = 6700000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2426,7 +2426,7 @@ _cfg.playerLevelUp = {
   },
   [98] = {
    id = 98,
-   levelUpExp = 9800,
+   levelUpExp = 6800000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2451,7 +2451,7 @@ _cfg.playerLevelUp = {
   },
   [99] = {
    id = 99,
-   levelUpExp = 9900,
+   levelUpExp = 6900000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
@@ -2476,7 +2476,7 @@ _cfg.playerLevelUp = {
   },
   [100] = {
    id = 100,
-   levelUpExp = 10000,
+   levelUpExp = 7000000,
    attr1 = 0,
    unit1 = 0,
    attr2 = 0,
