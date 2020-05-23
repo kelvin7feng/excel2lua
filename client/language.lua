@@ -196,37 +196,42 @@ _cfg.language = {
   },
   [1005] = {
    id = 1005,
-   zh_hans = '闪避: %g',
+   zh_hans = '暴击加成: %g',
    en = 'attr5',
   },
   [1006] = {
    id = 1006,
-   zh_hans = '命中: %g',
+   zh_hans = '闪避: %g',
    en = 'attr6',
   },
   [1007] = {
    id = 1007,
-   zh_hans = '急速: %g',
+   zh_hans = '命中: %g',
    en = 'attr7',
   },
   [1008] = {
    id = 1008,
-   zh_hans = '每秒恢复: %g',
+   zh_hans = '急速: %g',
    en = 'attr8',
   },
   [1009] = {
    id = 1009,
-   zh_hans = '物理减伤: %g',
+   zh_hans = '每秒恢复: %g',
    en = 'attr9',
   },
   [1010] = {
    id = 1010,
-   zh_hans = '魔法减伤: %g',
+   zh_hans = '物理减伤: %g',
    en = 'attr10',
   },
   [1011] = {
    id = 1011,
-   zh_hans = '吸血: %g',
+   zh_hans = '魔法减伤: %g',
    en = 'attr11',
+  },
+  [1012] = {
+   id = 1012,
+   zh_hans = '吸血: %g',
+   en = 'attr12',
   },
 }

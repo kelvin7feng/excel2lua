@@ -27,6 +27,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10011] = {
    id = 10011,
@@ -56,6 +59,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10012] = {
    id = 10012,
@@ -85,6 +91,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10013] = {
    id = 10013,
@@ -114,6 +123,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10014] = {
    id = 10014,
@@ -143,6 +155,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10015] = {
    id = 10015,
@@ -172,6 +187,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10020] = {
    id = 10020,
@@ -201,6 +219,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10021] = {
    id = 10021,
@@ -230,6 +251,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10022] = {
    id = 10022,
@@ -259,6 +283,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10023] = {
    id = 10023,
@@ -288,6 +315,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10024] = {
    id = 10024,
@@ -317,6 +347,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10025] = {
    id = 10025,
@@ -346,6 +379,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10030] = {
    id = 10030,
@@ -375,6 +411,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10031] = {
    id = 10031,
@@ -404,6 +443,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10032] = {
    id = 10032,
@@ -433,6 +475,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10033] = {
    id = 10033,
@@ -462,6 +507,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10034] = {
    id = 10034,
@@ -491,6 +539,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10035] = {
    id = 10035,
@@ -520,6 +571,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10040] = {
    id = 10040,
@@ -549,6 +603,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10041] = {
    id = 10041,
@@ -578,6 +635,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10042] = {
    id = 10042,
@@ -607,6 +667,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10043] = {
    id = 10043,
@@ -636,6 +699,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10044] = {
    id = 10044,
@@ -665,6 +731,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10045] = {
    id = 10045,
@@ -694,6 +763,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10050] = {
    id = 10050,
@@ -723,6 +795,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10051] = {
    id = 10051,
@@ -752,6 +827,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10052] = {
    id = 10052,
@@ -781,6 +859,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10053] = {
    id = 10053,
@@ -810,6 +891,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10054] = {
    id = 10054,
@@ -839,6 +923,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10055] = {
    id = 10055,
@@ -868,6 +955,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10060] = {
    id = 10060,
@@ -897,6 +987,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10061] = {
    id = 10061,
@@ -926,6 +1019,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10062] = {
    id = 10062,
@@ -955,6 +1051,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10063] = {
    id = 10063,
@@ -984,6 +1083,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10064] = {
    id = 10064,
@@ -1013,6 +1115,9 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
   [10065] = {
    id = 10065,
@@ -1042,5 +1147,8 @@ _cfg.equipLevelUp = {
    attr10 = 0,
    unit10 = 0,
    attr11 = 0,
+   unit11 = 0,
+   attr12 = 0,
+   unit12 = 0,
   },
 }
