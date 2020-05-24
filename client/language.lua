@@ -14,6 +14,11 @@ _cfg.language = {
    zh_hans = '当前等级:{1}',
    en = 'LV:{1}',
   },
+  [20003] = {
+   id = 20003,
+   zh_hans = '装备成功',
+   en = 'Wear Successfully',
+  },
   [10001] = {
    id = 10001,
    zh_hans = '金币',
@@ -144,20 +149,20 @@ _cfg.language = {
    zh_hans = '强化等级:{1}',
    en = 'LV:{1}',
   },
-  [20002] = {
-   id = 20002,
-   zh_hans = '强化成功',
-   en = 'Equip Level Up',
+  [1101] = {
+   id = 1101,
+   zh_hans = 'Boss来袭',
+   en = 'Boss is coming',
   },
   [2001] = {
    id = 2001,
    zh_hans = '玩家等级提升到{1}级',
    en = 'level up to {1}',
   },
-  [20003] = {
-   id = 20003,
-   zh_hans = '装备成功',
-   en = 'Wear Successfully',
+  [20002] = {
+   id = 20002,
+   zh_hans = '强化成功',
+   en = 'Equip Level Up',
   },
   [100003] = {
    id = 100003,
