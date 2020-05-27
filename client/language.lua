@@ -139,6 +139,11 @@ _cfg.language = {
    zh_hans = '材料不足',
    en = 'consume goods not enough',
   },
+  [30001] = {
+   id = 30001,
+   zh_hans = '暂不能种植',
+   en = 'Can not plant',
+  },
   [100002] = {
    id = 100002,
    zh_hans = '非法参数2',

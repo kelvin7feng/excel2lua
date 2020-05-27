@@ -1,66 +1,130 @@
 _cfg.crop = {
-  [3008] = {
-   id = 3008,
+  [2016] = {
+   id = 2016,
    growTime = 60,
+   plantIconBundle = 'fruit',
+   plantIconName = 'tree',
+   harvestIconBundle = 'fruit',
+   harvestIconName = 'watermelon ',
   },
-  [3009] = {
-   id = 3009,
+  [2001] = {
+   id = 2001,
    growTime = 60,
+   plantIconBundle = 'fruit',
+   plantIconName = 'tree',
+   harvestIconBundle = 'fruit',
+   harvestIconName = 'apple',
   },
-  [3010] = {
-   id = 3010,
+  [2002] = {
+   id = 2002,
    growTime = 60,
+   plantIconBundle = 'fruit',
+   plantIconName = 'tree',
+   harvestIconBundle = 'fruit',
+   harvestIconName = 'bananas',
   },
-  [3011] = {
-   id = 3011,
+  [2003] = {
+   id = 2003,
    growTime = 60,
+   plantIconBundle = 'fruit',
+   plantIconName = 'tree',
+   harvestIconBundle = 'fruit',
+   harvestIconName = 'blueberry',
   },
-  [3012] = {
-   id = 3012,
+  [2004] = {
+   id = 2004,
    growTime = 60,
+   plantIconBundle = 'fruit',
+   plantIconName = 'tree',
+   harvestIconBundle = 'fruit',
+   harvestIconName = 'carrot',
   },
-  [3013] = {
-   id = 3013,
+  [2005] = {
+   id = 2005,
    growTime = 60,
+   plantIconBundle = 'fruit',
+   plantIconName = 'tree',
+   harvestIconBundle = 'fruit',
+   harvestIconName = 'cherry',
   },
-  [3014] = {
-   id = 3014,
+  [2006] = {
+   id = 2006,
    growTime = 60,
+   plantIconBundle = 'fruit',
+   plantIconName = 'tree',
+   harvestIconBundle = 'fruit',
+   harvestIconName = 'corn',
   },
-  [3015] = {
-   id = 3015,
+  [2007] = {
+   id = 2007,
    growTime = 60,
+   plantIconBundle = 'fruit',
+   plantIconName = 'tree',
+   harvestIconBundle = 'fruit',
+   harvestIconName = 'eggplant',
   },
-  [3016] = {
-   id = 3016,
+  [2008] = {
+   id = 2008,
    growTime = 60,
+   plantIconBundle = 'fruit',
+   plantIconName = 'tree',
+   harvestIconBundle = 'fruit',
+   harvestIconName = 'grapes',
   },
-  [3001] = {
-   id = 3001,
+  [2009] = {
+   id = 2009,
    growTime = 60,
+   plantIconBundle = 'fruit',
+   plantIconName = 'tree',
+   harvestIconBundle = 'fruit',
+   harvestIconName = 'kiwi',
   },
-  [3002] = {
-   id = 3002,
+  [2010] = {
+   id = 2010,
    growTime = 60,
+   plantIconBundle = 'fruit',
+   plantIconName = 'tree',
+   harvestIconBundle = 'fruit',
+   harvestIconName = 'lemon',
   },
-  [3003] = {
-   id = 3003,
+  [2011] = {
+   id = 2011,
    growTime = 60,
+   plantIconBundle = 'fruit',
+   plantIconName = 'tree',
+   harvestIconBundle = 'fruit',
+   harvestIconName = 'orange',
   },
-  [3004] = {
-   id = 3004,
+  [2012] = {
+   id = 2012,
    growTime = 60,
+   plantIconBundle = 'fruit',
+   plantIconName = 'tree',
+   harvestIconBundle = 'fruit',
+   harvestIconName = 'peach',
   },
-  [3005] = {
-   id = 3005,
+  [2013] = {
+   id = 2013,
    growTime = 60,
+   plantIconBundle = 'fruit',
+   plantIconName = 'tree',
+   harvestIconBundle = 'fruit',
+   harvestIconName = 'pear',
   },
-  [3006] = {
-   id = 3006,
+  [2014] = {
+   id = 2014,
    growTime = 60,
+   plantIconBundle = 'fruit',
+   plantIconName = 'tree',
+   harvestIconBundle = 'fruit',
+   harvestIconName = 'pineapple',
   },
-  [3007] = {
-   id = 3007,
+  [2015] = {
+   id = 2015,
    growTime = 60,
+   plantIconBundle = 'fruit',
+   plantIconName = 'tree',
+   harvestIconBundle = 'fruit',
+   harvestIconName = 'pumpiking',
   },
 }
