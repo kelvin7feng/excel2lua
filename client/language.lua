@@ -144,6 +144,11 @@ _cfg.language = {
    zh_hans = '暂不能种植',
    en = 'Can not plant',
   },
+  [30002] = {
+   id = 30002,
+   zh_hans = '果实尚未成熟噢',
+   en = 'Can not harvest',
+  },
   [100002] = {
    id = 100002,
    zh_hans = '非法参数2',
