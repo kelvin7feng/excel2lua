@@ -154,6 +154,11 @@ _cfg.language = {
    zh_hans = '非法参数2',
    en = 'illegal paramters2',
   },
+  [20002] = {
+   id = 20002,
+   zh_hans = '强化成功',
+   en = 'Equip Level Up',
+  },
   [20001] = {
    id = 20001,
    zh_hans = '强化等级:{1}',
@@ -169,10 +174,15 @@ _cfg.language = {
    zh_hans = '玩家等级提升到{1}级',
    en = 'level up to {1}',
   },
-  [20002] = {
-   id = 20002,
-   zh_hans = '强化成功',
-   en = 'Equip Level Up',
+  [2002] = {
+   id = 2002,
+   zh_hans = '功能还在努力开发中',
+   en = 'This function is developing',
+  },
+  [2003] = {
+   id = 2003,
+   zh_hans = '确定花费{1}{2}购买{3}吗?',
+   en = 'use {1} {2} to buy {3}?',
   },
   [100003] = {
    id = 100003,
