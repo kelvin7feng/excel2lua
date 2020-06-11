@@ -159,6 +159,11 @@ _cfg.language = {
    zh_hans = '强化成功',
    en = 'Equip Level Up',
   },
+  [40001] = {
+   id = 40001,
+   zh_hans = '暂时还没有奖励喔,晚点再来吧',
+   en = 'Reward is still null',
+  },
   [20001] = {
    id = 20001,
    zh_hans = '强化等级:{1}',
@@ -167,6 +172,11 @@ _cfg.language = {
   [1101] = {
    id = 1101,
    zh_hans = 'Boss来袭',
+   en = 'Boss is coming',
+  },
+  [1102] = {
+   id = 1102,
+   zh_hans = '即将挑战Boss',
    en = 'Boss is coming',
   },
   [2001] = {
