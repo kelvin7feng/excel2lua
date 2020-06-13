@@ -179,10 +179,20 @@ _cfg.language = {
    zh_hans = '即将挑战Boss',
    en = 'Boss is coming',
   },
-  [2001] = {
-   id = 2001,
-   zh_hans = '玩家等级提升到{1}级',
-   en = 'level up to {1}',
+  [1103] = {
+   id = 1103,
+   zh_hans = '挑战Boss',
+   en = 'Challenge Boss',
+  },
+  [1104] = {
+   id = 1104,
+   zh_hans = '准备挑战',
+   en = 'Boss is coming',
+  },
+  [1105] = {
+   id = 1105,
+   zh_hans = '挑战中',
+   en = 'Fighting',
   },
   [2002] = {
    id = 2002,
@@ -208,6 +218,11 @@ _cfg.language = {
    id = 100001,
    zh_hans = '非法参数1',
    en = 'illegal paramters1',
+  },
+  [2001] = {
+   id = 2001,
+   zh_hans = '玩家等级提升到{1}级',
+   en = 'level up to {1}',
   },
   [1001] = {
    id = 1001,
