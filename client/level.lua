@@ -4,7 +4,7 @@ _cfg.level = {
    main = '普卡村',
    levelNo = 1,
    name = '普卡村1',
-   boss = 1,
+   boss = 9,
    monsterLibId = 1,
   },
   [2] = {
@@ -12,7 +12,7 @@ _cfg.level = {
    main = '普卡村',
    levelNo = 2,
    name = '普卡村2',
-   boss = 2,
+   boss = 10,
    monsterLibId = 1,
   },
   [3] = {
@@ -20,7 +20,7 @@ _cfg.level = {
    main = '普卡村',
    levelNo = 3,
    name = '普卡村3',
-   boss = 3,
+   boss = 19,
    monsterLibId = 1,
   },
   [4] = {
@@ -28,7 +28,7 @@ _cfg.level = {
    main = '普卡村',
    levelNo = 4,
    name = '普卡村4',
-   boss = 4,
+   boss = 20,
    monsterLibId = 1,
   },
   [5] = {
@@ -36,7 +36,7 @@ _cfg.level = {
    main = '普卡村',
    levelNo = 5,
    name = '普卡村5',
-   boss = 5,
+   boss = 29,
    monsterLibId = 1,
   },
   [6] = {
@@ -44,7 +44,7 @@ _cfg.level = {
    main = '陆南小径',
    levelNo = 1,
    name = '陆南小径1',
-   boss = 6,
+   boss = 30,
    monsterLibId = 2,
   },
   [7] = {
@@ -52,7 +52,7 @@ _cfg.level = {
    main = '陆南小径',
    levelNo = 2,
    name = '陆南小径2',
-   boss = 7,
+   boss = 39,
    monsterLibId = 3,
   },
   [8] = {
@@ -60,7 +60,7 @@ _cfg.level = {
    main = '陆南小径',
    levelNo = 3,
    name = '陆南小径3',
-   boss = 8,
+   boss = 40,
    monsterLibId = 4,
   },
   [9] = {
@@ -84,7 +84,7 @@ _cfg.level = {
    main = '农田之地',
    levelNo = 1,
    name = '农田之地1',
-   boss = 11,
+   boss = 19,
    monsterLibId = 7,
   },
   [12] = {
@@ -92,7 +92,7 @@ _cfg.level = {
    main = '农田之地',
    levelNo = 2,
    name = '农田之地2',
-   boss = 12,
+   boss = 20,
    monsterLibId = 8,
   },
   [13] = {
@@ -100,7 +100,7 @@ _cfg.level = {
    main = '农田之地',
    levelNo = 3,
    name = '农田之地3',
-   boss = 13,
+   boss = 29,
    monsterLibId = 9,
   },
   [14] = {
@@ -108,7 +108,7 @@ _cfg.level = {
    main = '农田之地',
    levelNo = 4,
    name = '农田之地4',
-   boss = 14,
+   boss = 30,
    monsterLibId = 10,
   },
   [15] = {
@@ -116,7 +116,7 @@ _cfg.level = {
    main = '农田之地',
    levelNo = 5,
    name = '农田之地5',
-   boss = 15,
+   boss = 39,
    monsterLibId = 11,
   },
   [16] = {
@@ -124,7 +124,7 @@ _cfg.level = {
    main = '加罗山',
    levelNo = 1,
    name = '加罗山1',
-   boss = 16,
+   boss = 40,
    monsterLibId = 12,
   },
   [17] = {
@@ -132,7 +132,7 @@ _cfg.level = {
    main = '加罗山',
    levelNo = 2,
    name = '加罗山2',
-   boss = 17,
+   boss = 9,
    monsterLibId = 13,
   },
   [18] = {
@@ -140,7 +140,7 @@ _cfg.level = {
    main = '加罗山',
    levelNo = 3,
    name = '加罗山3',
-   boss = 18,
+   boss = 10,
    monsterLibId = 14,
   },
   [19] = {
@@ -164,7 +164,7 @@ _cfg.level = {
    main = '基布林',
    levelNo = 1,
    name = '基布林1',
-   boss = 21,
+   boss = 29,
    monsterLibId = 17,
   },
   [22] = {
@@ -172,7 +172,7 @@ _cfg.level = {
    main = '基布林',
    levelNo = 2,
    name = '基布林2',
-   boss = 22,
+   boss = 30,
    monsterLibId = 18,
   },
   [23] = {
@@ -180,7 +180,7 @@ _cfg.level = {
    main = '基布林',
    levelNo = 3,
    name = '基布林3',
-   boss = 23,
+   boss = 39,
    monsterLibId = 19,
   },
   [24] = {
@@ -188,7 +188,7 @@ _cfg.level = {
    main = '基布林',
    levelNo = 4,
    name = '基布林4',
-   boss = 24,
+   boss = 40,
    monsterLibId = 20,
   },
   [25] = {
@@ -196,7 +196,7 @@ _cfg.level = {
    main = '基布林',
    levelNo = 5,
    name = '基布林5',
-   boss = 25,
+   boss = 9,
    monsterLibId = 21,
   },
   [26] = {
@@ -204,7 +204,7 @@ _cfg.level = {
    main = '北郡峭壁',
    levelNo = 1,
    name = '北郡峭壁1',
-   boss = 26,
+   boss = 10,
    monsterLibId = 22,
   },
   [27] = {
@@ -212,7 +212,7 @@ _cfg.level = {
    main = '北郡峭壁',
    levelNo = 2,
    name = '北郡峭壁2',
-   boss = 27,
+   boss = 19,
    monsterLibId = 23,
   },
   [28] = {
@@ -220,7 +220,7 @@ _cfg.level = {
    main = '北郡峭壁',
    levelNo = 3,
    name = '北郡峭壁3',
-   boss = 28,
+   boss = 20,
    monsterLibId = 24,
   },
   [29] = {
@@ -244,7 +244,7 @@ _cfg.level = {
    main = '尔维丘陵',
    levelNo = 1,
    name = '尔维丘陵1',
-   boss = 31,
+   boss = 39,
    monsterLibId = 27,
   },
   [32] = {
@@ -252,7 +252,7 @@ _cfg.level = {
    main = '尔维丘陵',
    levelNo = 2,
    name = '尔维丘陵2',
-   boss = 32,
+   boss = 40,
    monsterLibId = 28,
   },
   [33] = {
@@ -260,7 +260,7 @@ _cfg.level = {
    main = '尔维丘陵',
    levelNo = 3,
    name = '尔维丘陵3',
-   boss = 33,
+   boss = 9,
    monsterLibId = 29,
   },
   [34] = {
@@ -268,7 +268,7 @@ _cfg.level = {
    main = '尔维丘陵',
    levelNo = 4,
    name = '尔维丘陵4',
-   boss = 34,
+   boss = 10,
    monsterLibId = 30,
   },
   [35] = {
@@ -276,7 +276,7 @@ _cfg.level = {
    main = '尔维丘陵',
    levelNo = 5,
    name = '尔维丘陵5',
-   boss = 35,
+   boss = 19,
    monsterLibId = 31,
   },
   [36] = {
@@ -284,7 +284,7 @@ _cfg.level = {
    main = '塔贝平原',
    levelNo = 1,
    name = '塔贝平原1',
-   boss = 36,
+   boss = 20,
    monsterLibId = 32,
   },
   [37] = {
@@ -292,7 +292,7 @@ _cfg.level = {
    main = '塔贝平原',
    levelNo = 2,
    name = '塔贝平原2',
-   boss = 37,
+   boss = 29,
    monsterLibId = 33,
   },
   [38] = {
@@ -300,7 +300,7 @@ _cfg.level = {
    main = '塔贝平原',
    levelNo = 3,
    name = '塔贝平原3',
-   boss = 38,
+   boss = 30,
    monsterLibId = 34,
   },
   [39] = {
@@ -324,7 +324,7 @@ _cfg.level = {
    main = '港巴之桥',
    levelNo = 1,
    name = '港巴之桥1',
-   boss = 41,
+   boss = 9,
    monsterLibId = 37,
   },
   [42] = {
@@ -332,7 +332,7 @@ _cfg.level = {
    main = '港巴之桥',
    levelNo = 2,
    name = '港巴之桥2',
-   boss = 42,
+   boss = 10,
    monsterLibId = 38,
   },
   [43] = {
@@ -340,7 +340,7 @@ _cfg.level = {
    main = '港巴之桥',
    levelNo = 3,
    name = '港巴之桥3',
-   boss = 43,
+   boss = 19,
    monsterLibId = 39,
   },
   [44] = {
@@ -348,7 +348,7 @@ _cfg.level = {
    main = '港巴之桥',
    levelNo = 4,
    name = '港巴之桥4',
-   boss = 44,
+   boss = 20,
    monsterLibId = 40,
   },
   [45] = {
@@ -356,7 +356,7 @@ _cfg.level = {
    main = '港巴之桥',
    levelNo = 5,
    name = '港巴之桥5',
-   boss = 45,
+   boss = 29,
    monsterLibId = 41,
   },
   [46] = {
@@ -364,7 +364,7 @@ _cfg.level = {
    main = '哥龙堡',
    levelNo = 1,
    name = '哥龙堡1',
-   boss = 46,
+   boss = 30,
    monsterLibId = 42,
   },
   [47] = {
@@ -372,7 +372,7 @@ _cfg.level = {
    main = '哥龙堡',
    levelNo = 2,
    name = '哥龙堡2',
-   boss = 47,
+   boss = 39,
    monsterLibId = 43,
   },
   [48] = {
@@ -380,7 +380,7 @@ _cfg.level = {
    main = '哥龙堡',
    levelNo = 3,
    name = '哥龙堡3',
-   boss = 48,
+   boss = 40,
    monsterLibId = 44,
   },
   [49] = {
@@ -388,7 +388,7 @@ _cfg.level = {
    main = '哥龙堡',
    levelNo = 4,
    name = '哥龙堡4',
-   boss = 49,
+   boss = 9,
    monsterLibId = 45,
   },
   [50] = {
@@ -396,7 +396,7 @@ _cfg.level = {
    main = '哥龙堡',
    levelNo = 5,
    name = '哥龙堡5',
-   boss = 50,
+   boss = 10,
    monsterLibId = 46,
   },
   [51] = {
@@ -404,7 +404,7 @@ _cfg.level = {
    main = '守望林地',
    levelNo = 1,
    name = '守望林地1',
-   boss = 51,
+   boss = 19,
    monsterLibId = 47,
   },
   [52] = {
@@ -412,7 +412,7 @@ _cfg.level = {
    main = '守望林地',
    levelNo = 2,
    name = '守望林地2',
-   boss = 52,
+   boss = 20,
    monsterLibId = 48,
   },
   [53] = {
@@ -420,7 +420,7 @@ _cfg.level = {
    main = '守望林地',
    levelNo = 3,
    name = '守望林地3',
-   boss = 53,
+   boss = 29,
    monsterLibId = 49,
   },
   [54] = {
@@ -428,7 +428,7 @@ _cfg.level = {
    main = '守望林地',
    levelNo = 4,
    name = '守望林地4',
-   boss = 54,
+   boss = 30,
    monsterLibId = 50,
   },
   [55] = {
@@ -436,7 +436,7 @@ _cfg.level = {
    main = '守望林地',
    levelNo = 5,
    name = '守望林地5',
-   boss = 55,
+   boss = 39,
    monsterLibId = 51,
   },
   [56] = {
@@ -444,7 +444,7 @@ _cfg.level = {
    main = '萨丁石林',
    levelNo = 1,
    name = '萨丁石林1',
-   boss = 56,
+   boss = 40,
    monsterLibId = 52,
   },
   [57] = {
@@ -452,7 +452,7 @@ _cfg.level = {
    main = '萨丁石林',
    levelNo = 2,
    name = '萨丁石林2',
-   boss = 57,
+   boss = 9,
    monsterLibId = 53,
   },
   [58] = {
@@ -460,7 +460,7 @@ _cfg.level = {
    main = '萨丁石林',
    levelNo = 3,
    name = '萨丁石林3',
-   boss = 58,
+   boss = 10,
    monsterLibId = 54,
   },
   [59] = {
@@ -468,7 +468,7 @@ _cfg.level = {
    main = '萨丁石林',
    levelNo = 4,
    name = '萨丁石林4',
-   boss = 59,
+   boss = 19,
    monsterLibId = 55,
   },
   [60] = {
@@ -476,7 +476,7 @@ _cfg.level = {
    main = '萨丁石林',
    levelNo = 5,
    name = '萨丁石林5',
-   boss = 60,
+   boss = 20,
    monsterLibId = 56,
   },
   [61] = {
@@ -484,7 +484,7 @@ _cfg.level = {
    main = '玛特之脊',
    levelNo = 1,
    name = '玛特之脊1',
-   boss = 61,
+   boss = 29,
    monsterLibId = 57,
   },
   [62] = {
@@ -492,7 +492,7 @@ _cfg.level = {
    main = '玛特之脊',
    levelNo = 2,
    name = '玛特之脊2',
-   boss = 62,
+   boss = 30,
    monsterLibId = 58,
   },
   [63] = {
@@ -500,7 +500,7 @@ _cfg.level = {
    main = '玛特之脊',
    levelNo = 3,
    name = '玛特之脊3',
-   boss = 63,
+   boss = 39,
    monsterLibId = 59,
   },
   [64] = {
@@ -508,7 +508,7 @@ _cfg.level = {
    main = '玛特之脊',
    levelNo = 4,
    name = '玛特之脊4',
-   boss = 64,
+   boss = 40,
    monsterLibId = 60,
   },
   [65] = {
@@ -516,7 +516,7 @@ _cfg.level = {
    main = '玛特之脊',
    levelNo = 5,
    name = '玛特之脊5',
-   boss = 65,
+   boss = 9,
    monsterLibId = 61,
   },
   [66] = {
@@ -524,7 +524,7 @@ _cfg.level = {
    main = '戈卡沙漠',
    levelNo = 1,
    name = '戈卡沙漠1',
-   boss = 66,
+   boss = 10,
    monsterLibId = 62,
   },
   [67] = {
@@ -532,7 +532,7 @@ _cfg.level = {
    main = '戈卡沙漠',
    levelNo = 2,
    name = '戈卡沙漠2',
-   boss = 67,
+   boss = 19,
    monsterLibId = 63,
   },
   [68] = {
@@ -540,7 +540,7 @@ _cfg.level = {
    main = '戈卡沙漠',
    levelNo = 3,
    name = '戈卡沙漠3',
-   boss = 68,
+   boss = 20,
    monsterLibId = 64,
   },
   [69] = {
@@ -548,7 +548,7 @@ _cfg.level = {
    main = '戈卡沙漠',
    levelNo = 4,
    name = '戈卡沙漠4',
-   boss = 69,
+   boss = 29,
    monsterLibId = 65,
   },
   [70] = {
@@ -556,7 +556,7 @@ _cfg.level = {
    main = '戈卡沙漠',
    levelNo = 5,
    name = '戈卡沙漠5',
-   boss = 70,
+   boss = 30,
    monsterLibId = 66,
   },
   [71] = {
@@ -564,7 +564,7 @@ _cfg.level = {
    main = '古勒山谷',
    levelNo = 1,
    name = '古勒山谷1',
-   boss = 71,
+   boss = 39,
    monsterLibId = 67,
   },
   [72] = {
@@ -572,7 +572,7 @@ _cfg.level = {
    main = '古勒山谷',
    levelNo = 2,
    name = '古勒山谷2',
-   boss = 72,
+   boss = 40,
    monsterLibId = 68,
   },
   [73] = {
@@ -580,7 +580,7 @@ _cfg.level = {
    main = '古勒山谷',
    levelNo = 3,
    name = '古勒山谷3',
-   boss = 73,
+   boss = 9,
    monsterLibId = 69,
   },
   [74] = {
@@ -588,7 +588,7 @@ _cfg.level = {
    main = '古勒山谷',
    levelNo = 4,
    name = '古勒山谷4',
-   boss = 74,
+   boss = 10,
    monsterLibId = 70,
   },
   [75] = {
@@ -596,7 +596,7 @@ _cfg.level = {
    main = '古勒山谷',
    levelNo = 5,
    name = '古勒山谷5',
-   boss = 75,
+   boss = 19,
    monsterLibId = 71,
   },
   [76] = {
@@ -604,7 +604,7 @@ _cfg.level = {
    main = '帕宁山脉',
    levelNo = 1,
    name = '帕宁山脉1',
-   boss = 76,
+   boss = 20,
    monsterLibId = 72,
   },
   [77] = {
@@ -612,7 +612,7 @@ _cfg.level = {
    main = '帕宁山脉',
    levelNo = 2,
    name = '帕宁山脉2',
-   boss = 77,
+   boss = 29,
    monsterLibId = 73,
   },
   [78] = {
@@ -620,7 +620,7 @@ _cfg.level = {
    main = '帕宁山脉',
    levelNo = 3,
    name = '帕宁山脉3',
-   boss = 78,
+   boss = 30,
    monsterLibId = 74,
   },
   [79] = {
@@ -628,7 +628,7 @@ _cfg.level = {
    main = '帕宁山脉',
    levelNo = 4,
    name = '帕宁山脉4',
-   boss = 79,
+   boss = 39,
    monsterLibId = 75,
   },
   [80] = {
@@ -636,7 +636,7 @@ _cfg.level = {
    main = '帕宁山脉',
    levelNo = 5,
    name = '帕宁山脉5',
-   boss = 80,
+   boss = 40,
    monsterLibId = 76,
   },
   [81] = {
@@ -644,7 +644,7 @@ _cfg.level = {
    main = '鲁伊城',
    levelNo = 1,
    name = '鲁伊城1',
-   boss = 81,
+   boss = 9,
    monsterLibId = 77,
   },
   [82] = {
@@ -652,7 +652,7 @@ _cfg.level = {
    main = '鲁伊城',
    levelNo = 2,
    name = '鲁伊城2',
-   boss = 82,
+   boss = 10,
    monsterLibId = 78,
   },
   [83] = {
@@ -660,7 +660,7 @@ _cfg.level = {
    main = '鲁伊城',
    levelNo = 3,
    name = '鲁伊城3',
-   boss = 83,
+   boss = 19,
    monsterLibId = 79,
   },
   [84] = {
@@ -668,7 +668,7 @@ _cfg.level = {
    main = '鲁伊城',
    levelNo = 4,
    name = '鲁伊城4',
-   boss = 84,
+   boss = 20,
    monsterLibId = 80,
   },
   [85] = {
@@ -676,7 +676,7 @@ _cfg.level = {
    main = '鲁伊城',
    levelNo = 5,
    name = '鲁伊城5',
-   boss = 85,
+   boss = 29,
    monsterLibId = 81,
   },
   [86] = {
@@ -684,7 +684,7 @@ _cfg.level = {
    main = '约纽中心',
    levelNo = 1,
    name = '约纽中心1',
-   boss = 86,
+   boss = 30,
    monsterLibId = 82,
   },
   [87] = {
@@ -692,7 +692,7 @@ _cfg.level = {
    main = '约纽中心',
    levelNo = 2,
    name = '约纽中心2',
-   boss = 87,
+   boss = 39,
    monsterLibId = 83,
   },
   [88] = {
@@ -700,7 +700,7 @@ _cfg.level = {
    main = '约纽中心',
    levelNo = 3,
    name = '约纽中心3',
-   boss = 88,
+   boss = 40,
    monsterLibId = 84,
   },
   [89] = {
