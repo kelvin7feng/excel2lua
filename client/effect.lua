@@ -17,4 +17,10 @@ _cfg.effect = {
    assetName = 'OuterSpaceExplode',
    duration = 0,
   },
+  [4] = {
+   id = 4,
+   bundleName = 'particle',
+   assetName = 'BlueSpell1',
+   duration = 0,
+  },
 }

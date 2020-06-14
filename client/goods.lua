@@ -1,6 +1,8 @@
 _cfg.goods = {
   [1024] = {
    id = 1024,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1004',
    languageId = 10021,
@@ -11,6 +13,8 @@ _cfg.goods = {
   },
   [1] = {
    id = 1,
+   category = '货币',
+   desc = '暂无描述,待考证',
    assetBundle = 'goods',
    assetName = '1',
    languageId = 10001,
@@ -21,6 +25,8 @@ _cfg.goods = {
   },
   [2] = {
    id = 2,
+   category = '货币',
+   desc = '暂无描述,待考证',
    assetBundle = 'goods',
    assetName = '2',
    languageId = 10002,
@@ -31,16 +37,20 @@ _cfg.goods = {
   },
   [3] = {
    id = 3,
+   category = '消耗品',
+   desc = '暂无描述,待考证',
    assetBundle = 'goods',
    assetName = '3',
    languageId = 10003,
    name = '经验',
    goodsType = 3,
-   isBag = 1,
+   isBag = 0,
    extraCfg = '',
   },
   [1025] = {
    id = 1025,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1005',
    languageId = 10022,
@@ -51,6 +61,8 @@ _cfg.goods = {
   },
   [1032] = {
    id = 1032,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1002',
    languageId = 10019,
@@ -61,6 +73,8 @@ _cfg.goods = {
   },
   [1033] = {
    id = 1033,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1003',
    languageId = 10020,
@@ -71,6 +85,8 @@ _cfg.goods = {
   },
   [1034] = {
    id = 1034,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1004',
    languageId = 10021,
@@ -81,6 +97,8 @@ _cfg.goods = {
   },
   [1035] = {
    id = 1035,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1005',
    languageId = 10022,
@@ -91,6 +109,8 @@ _cfg.goods = {
   },
   [1036] = {
    id = 1036,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1006',
    languageId = 10023,
@@ -101,6 +121,8 @@ _cfg.goods = {
   },
   [1026] = {
    id = 1026,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1006',
    languageId = 10023,
@@ -111,6 +133,8 @@ _cfg.goods = {
   },
   [1041] = {
    id = 1041,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1001',
    languageId = 10018,
@@ -121,6 +145,8 @@ _cfg.goods = {
   },
   [1042] = {
    id = 1042,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1002',
    languageId = 10019,
@@ -131,6 +157,8 @@ _cfg.goods = {
   },
   [1043] = {
    id = 1043,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1003',
    languageId = 10020,
@@ -141,6 +169,8 @@ _cfg.goods = {
   },
   [1044] = {
    id = 1044,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1004',
    languageId = 10021,
@@ -151,6 +181,8 @@ _cfg.goods = {
   },
   [1045] = {
    id = 1045,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1005',
    languageId = 10022,
@@ -161,6 +193,8 @@ _cfg.goods = {
   },
   [1046] = {
    id = 1046,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1006',
    languageId = 10023,
@@ -171,6 +205,8 @@ _cfg.goods = {
   },
   [1051] = {
    id = 1051,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1001',
    languageId = 10018,
@@ -181,6 +217,8 @@ _cfg.goods = {
   },
   [1052] = {
    id = 1052,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1002',
    languageId = 10019,
@@ -191,6 +229,8 @@ _cfg.goods = {
   },
   [1053] = {
    id = 1053,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1003',
    languageId = 10020,
@@ -201,6 +241,8 @@ _cfg.goods = {
   },
   [1054] = {
    id = 1054,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1004',
    languageId = 10021,
@@ -211,6 +253,8 @@ _cfg.goods = {
   },
   [1055] = {
    id = 1055,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1005',
    languageId = 10022,
@@ -221,6 +265,8 @@ _cfg.goods = {
   },
   [1056] = {
    id = 1056,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1006',
    languageId = 10023,
@@ -231,6 +277,8 @@ _cfg.goods = {
   },
   [1061] = {
    id = 1061,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1001',
    languageId = 10018,
@@ -241,6 +289,8 @@ _cfg.goods = {
   },
   [1062] = {
    id = 1062,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1002',
    languageId = 10019,
@@ -251,6 +301,8 @@ _cfg.goods = {
   },
   [1063] = {
    id = 1063,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1003',
    languageId = 10020,
@@ -261,6 +313,8 @@ _cfg.goods = {
   },
   [1064] = {
    id = 1064,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1004',
    languageId = 10021,
@@ -271,6 +325,8 @@ _cfg.goods = {
   },
   [1065] = {
    id = 1065,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1005',
    languageId = 10022,
@@ -281,6 +337,8 @@ _cfg.goods = {
   },
   [1066] = {
    id = 1066,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1006',
    languageId = 10023,
@@ -291,6 +349,8 @@ _cfg.goods = {
   },
   [1031] = {
    id = 1031,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1001',
    languageId = 10018,
@@ -301,6 +361,8 @@ _cfg.goods = {
   },
   [1071] = {
    id = 1071,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1001',
    languageId = 10018,
@@ -311,6 +373,8 @@ _cfg.goods = {
   },
   [1072] = {
    id = 1072,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1002',
    languageId = 10019,
@@ -321,6 +385,8 @@ _cfg.goods = {
   },
   [1073] = {
    id = 1073,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1003',
    languageId = 10020,
@@ -331,6 +397,8 @@ _cfg.goods = {
   },
   [1074] = {
    id = 1074,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1004',
    languageId = 10021,
@@ -341,6 +409,8 @@ _cfg.goods = {
   },
   [1075] = {
    id = 1075,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1005',
    languageId = 10022,
@@ -351,6 +421,8 @@ _cfg.goods = {
   },
   [1076] = {
    id = 1076,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1006',
    languageId = 10023,
@@ -361,6 +433,8 @@ _cfg.goods = {
   },
   [1081] = {
    id = 1081,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1001',
    languageId = 10018,
@@ -371,6 +445,8 @@ _cfg.goods = {
   },
   [1082] = {
    id = 1082,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1002',
    languageId = 10019,
@@ -381,6 +457,8 @@ _cfg.goods = {
   },
   [1083] = {
    id = 1083,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1003',
    languageId = 10020,
@@ -391,6 +469,8 @@ _cfg.goods = {
   },
   [1084] = {
    id = 1084,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1004',
    languageId = 10021,
@@ -401,6 +481,8 @@ _cfg.goods = {
   },
   [1085] = {
    id = 1085,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1005',
    languageId = 10022,
@@ -411,6 +493,8 @@ _cfg.goods = {
   },
   [1086] = {
    id = 1086,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1006',
    languageId = 10023,
@@ -421,6 +505,8 @@ _cfg.goods = {
   },
   [1091] = {
    id = 1091,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1001',
    languageId = 10018,
@@ -431,6 +517,8 @@ _cfg.goods = {
   },
   [1092] = {
    id = 1092,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1002',
    languageId = 10019,
@@ -441,6 +529,8 @@ _cfg.goods = {
   },
   [1093] = {
    id = 1093,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1003',
    languageId = 10020,
@@ -451,6 +541,8 @@ _cfg.goods = {
   },
   [1094] = {
    id = 1094,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1004',
    languageId = 10021,
@@ -461,6 +553,8 @@ _cfg.goods = {
   },
   [1095] = {
    id = 1095,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1005',
    languageId = 10022,
@@ -471,6 +565,8 @@ _cfg.goods = {
   },
   [1096] = {
    id = 1096,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1006',
    languageId = 10023,
@@ -481,6 +577,8 @@ _cfg.goods = {
   },
   [1101] = {
    id = 1101,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1001',
    languageId = 10018,
@@ -491,6 +589,8 @@ _cfg.goods = {
   },
   [1102] = {
    id = 1102,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1002',
    languageId = 10019,
@@ -501,6 +601,8 @@ _cfg.goods = {
   },
   [1103] = {
    id = 1103,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1003',
    languageId = 10020,
@@ -511,6 +613,8 @@ _cfg.goods = {
   },
   [1104] = {
    id = 1104,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1004',
    languageId = 10021,
@@ -521,6 +625,8 @@ _cfg.goods = {
   },
   [1105] = {
    id = 1105,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1005',
    languageId = 10022,
@@ -531,6 +637,8 @@ _cfg.goods = {
   },
   [1106] = {
    id = 1106,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1006',
    languageId = 10023,
@@ -541,6 +649,8 @@ _cfg.goods = {
   },
   [1111] = {
    id = 1111,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1001',
    languageId = 10018,
@@ -551,6 +661,8 @@ _cfg.goods = {
   },
   [1112] = {
    id = 1112,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1002',
    languageId = 10019,
@@ -561,6 +673,8 @@ _cfg.goods = {
   },
   [1113] = {
    id = 1113,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1003',
    languageId = 10020,
@@ -571,6 +685,8 @@ _cfg.goods = {
   },
   [1114] = {
    id = 1114,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1004',
    languageId = 10021,
@@ -581,6 +697,8 @@ _cfg.goods = {
   },
   [1115] = {
    id = 1115,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1005',
    languageId = 10022,
@@ -591,6 +709,8 @@ _cfg.goods = {
   },
   [1116] = {
    id = 1116,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1006',
    languageId = 10023,
@@ -601,6 +721,8 @@ _cfg.goods = {
   },
   [100] = {
    id = 100,
+   category = '消耗品',
+   desc = '暂无描述,待考证',
    assetBundle = 'goods',
    assetName = '100',
    languageId = 10004,
@@ -611,6 +733,8 @@ _cfg.goods = {
   },
   [101] = {
    id = 101,
+   category = '消耗品',
+   desc = '暂无描述,待考证',
    assetBundle = 'goods',
    assetName = '101',
    languageId = 10005,
@@ -621,6 +745,8 @@ _cfg.goods = {
   },
   [102] = {
    id = 102,
+   category = '消耗品',
+   desc = '暂无描述,待考证',
    assetBundle = 'goods',
    assetName = '102',
    languageId = 10006,
@@ -631,6 +757,8 @@ _cfg.goods = {
   },
   [103] = {
    id = 103,
+   category = '消耗品',
+   desc = '暂无描述,待考证',
    assetBundle = 'goods',
    assetName = '103',
    languageId = 10007,
@@ -641,6 +769,8 @@ _cfg.goods = {
   },
   [104] = {
    id = 104,
+   category = '消耗品',
+   desc = '暂无描述,待考证',
    assetBundle = 'goods',
    assetName = '104',
    languageId = 10008,
@@ -651,6 +781,8 @@ _cfg.goods = {
   },
   [105] = {
    id = 105,
+   category = '消耗品',
+   desc = '暂无描述,待考证',
    assetBundle = 'goods',
    assetName = '105',
    languageId = 10009,
@@ -661,6 +793,8 @@ _cfg.goods = {
   },
   [106] = {
    id = 106,
+   category = '消耗品',
+   desc = '暂无描述,待考证',
    assetBundle = 'goods',
    assetName = '106',
    languageId = 10010,
@@ -671,6 +805,8 @@ _cfg.goods = {
   },
   [107] = {
    id = 107,
+   category = '消耗品',
+   desc = '暂无描述,待考证',
    assetBundle = 'goods',
    assetName = '107',
    languageId = 10011,
@@ -681,6 +817,8 @@ _cfg.goods = {
   },
   [108] = {
    id = 108,
+   category = '消耗品',
+   desc = '暂无描述,待考证',
    assetBundle = 'goods',
    assetName = '108',
    languageId = 10012,
@@ -691,6 +829,8 @@ _cfg.goods = {
   },
   [109] = {
    id = 109,
+   category = '消耗品',
+   desc = '暂无描述,待考证',
    assetBundle = 'goods',
    assetName = '109',
    languageId = 10013,
@@ -701,6 +841,8 @@ _cfg.goods = {
   },
   [110] = {
    id = 110,
+   category = '消耗品',
+   desc = '暂无描述,待考证',
    assetBundle = 'goods',
    assetName = '110',
    languageId = 10014,
@@ -711,6 +853,8 @@ _cfg.goods = {
   },
   [111] = {
    id = 111,
+   category = '消耗品',
+   desc = '暂无描述,待考证',
    assetBundle = 'goods',
    assetName = '111',
    languageId = 10015,
@@ -721,6 +865,8 @@ _cfg.goods = {
   },
   [112] = {
    id = 112,
+   category = '消耗品',
+   desc = '暂无描述,待考证',
    assetBundle = 'goods',
    assetName = '112',
    languageId = 10016,
@@ -731,6 +877,8 @@ _cfg.goods = {
   },
   [113] = {
    id = 113,
+   category = '消耗品',
+   desc = '暂无描述,待考证',
    assetBundle = 'goods',
    assetName = '113',
    languageId = 10017,
@@ -741,6 +889,8 @@ _cfg.goods = {
   },
   [3001] = {
    id = 3001,
+   category = '水果',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'apple',
    languageId = 0,
@@ -751,6 +901,8 @@ _cfg.goods = {
   },
   [3002] = {
    id = 3002,
+   category = '水果',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'bananas',
    languageId = 0,
@@ -761,6 +913,8 @@ _cfg.goods = {
   },
   [3003] = {
    id = 3003,
+   category = '水果',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'blueberry',
    languageId = 0,
@@ -771,6 +925,8 @@ _cfg.goods = {
   },
   [3004] = {
    id = 3004,
+   category = '水果',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'carrot',
    languageId = 0,
@@ -781,6 +937,8 @@ _cfg.goods = {
   },
   [3005] = {
    id = 3005,
+   category = '水果',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'cherry',
    languageId = 0,
@@ -791,6 +949,8 @@ _cfg.goods = {
   },
   [3006] = {
    id = 3006,
+   category = '水果',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'corn',
    languageId = 0,
@@ -801,6 +961,8 @@ _cfg.goods = {
   },
   [3007] = {
    id = 3007,
+   category = '水果',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'eggplant',
    languageId = 0,
@@ -811,6 +973,8 @@ _cfg.goods = {
   },
   [3008] = {
    id = 3008,
+   category = '水果',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'grapes',
    languageId = 0,
@@ -821,6 +985,8 @@ _cfg.goods = {
   },
   [3009] = {
    id = 3009,
+   category = '水果',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'kiwi',
    languageId = 0,
@@ -831,6 +997,8 @@ _cfg.goods = {
   },
   [3010] = {
    id = 3010,
+   category = '水果',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'lemon',
    languageId = 0,
@@ -841,6 +1009,8 @@ _cfg.goods = {
   },
   [3011] = {
    id = 3011,
+   category = '水果',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'orange',
    languageId = 0,
@@ -851,6 +1021,8 @@ _cfg.goods = {
   },
   [3012] = {
    id = 3012,
+   category = '水果',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'peach',
    languageId = 0,
@@ -861,6 +1033,8 @@ _cfg.goods = {
   },
   [3013] = {
    id = 3013,
+   category = '水果',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'pear',
    languageId = 0,
@@ -871,6 +1045,8 @@ _cfg.goods = {
   },
   [3014] = {
    id = 3014,
+   category = '水果',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'pineapple',
    languageId = 0,
@@ -881,6 +1057,8 @@ _cfg.goods = {
   },
   [3015] = {
    id = 3015,
+   category = '水果',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'pumpiking',
    languageId = 0,
@@ -891,6 +1069,8 @@ _cfg.goods = {
   },
   [3016] = {
    id = 3016,
+   category = '水果',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'watermelon ',
    languageId = 0,
@@ -901,6 +1081,8 @@ _cfg.goods = {
   },
   [2001] = {
    id = 2001,
+   category = '种子',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'apple',
    languageId = 0,
@@ -911,6 +1093,8 @@ _cfg.goods = {
   },
   [2002] = {
    id = 2002,
+   category = '种子',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'bananas',
    languageId = 0,
@@ -921,6 +1105,8 @@ _cfg.goods = {
   },
   [2003] = {
    id = 2003,
+   category = '种子',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'blueberry',
    languageId = 0,
@@ -931,6 +1117,8 @@ _cfg.goods = {
   },
   [2004] = {
    id = 2004,
+   category = '种子',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'carrot',
    languageId = 0,
@@ -941,6 +1129,8 @@ _cfg.goods = {
   },
   [2005] = {
    id = 2005,
+   category = '种子',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'cherry',
    languageId = 0,
@@ -951,6 +1141,8 @@ _cfg.goods = {
   },
   [2006] = {
    id = 2006,
+   category = '种子',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'corn',
    languageId = 0,
@@ -961,6 +1153,8 @@ _cfg.goods = {
   },
   [2007] = {
    id = 2007,
+   category = '种子',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'eggplant',
    languageId = 0,
@@ -971,6 +1165,8 @@ _cfg.goods = {
   },
   [2008] = {
    id = 2008,
+   category = '种子',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'grapes',
    languageId = 0,
@@ -981,6 +1177,8 @@ _cfg.goods = {
   },
   [2009] = {
    id = 2009,
+   category = '种子',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'kiwi',
    languageId = 0,
@@ -991,6 +1189,8 @@ _cfg.goods = {
   },
   [2010] = {
    id = 2010,
+   category = '种子',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'lemon',
    languageId = 0,
@@ -1001,6 +1201,8 @@ _cfg.goods = {
   },
   [2011] = {
    id = 2011,
+   category = '种子',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'orange',
    languageId = 0,
@@ -1011,6 +1213,8 @@ _cfg.goods = {
   },
   [2012] = {
    id = 2012,
+   category = '种子',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'peach',
    languageId = 0,
@@ -1021,6 +1225,8 @@ _cfg.goods = {
   },
   [2013] = {
    id = 2013,
+   category = '种子',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'pear',
    languageId = 0,
@@ -1031,6 +1237,8 @@ _cfg.goods = {
   },
   [2014] = {
    id = 2014,
+   category = '种子',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'pineapple',
    languageId = 0,
@@ -1041,6 +1249,8 @@ _cfg.goods = {
   },
   [2015] = {
    id = 2015,
+   category = '种子',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'pumpiking',
    languageId = 0,
@@ -1051,6 +1261,8 @@ _cfg.goods = {
   },
   [2016] = {
    id = 2016,
+   category = '种子',
+   desc = '暂无描述,待考证',
    assetBundle = 'fruit',
    assetName = 'watermelon ',
    languageId = 0,
@@ -1061,6 +1273,8 @@ _cfg.goods = {
   },
   [1001] = {
    id = 1001,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1001',
    languageId = 10018,
@@ -1071,6 +1285,8 @@ _cfg.goods = {
   },
   [1002] = {
    id = 1002,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1002',
    languageId = 10019,
@@ -1081,6 +1297,8 @@ _cfg.goods = {
   },
   [1003] = {
    id = 1003,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1003',
    languageId = 10020,
@@ -1091,6 +1309,8 @@ _cfg.goods = {
   },
   [1004] = {
    id = 1004,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1004',
    languageId = 10021,
@@ -1101,6 +1321,8 @@ _cfg.goods = {
   },
   [1005] = {
    id = 1005,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1005',
    languageId = 10022,
@@ -1111,6 +1333,8 @@ _cfg.goods = {
   },
   [1006] = {
    id = 1006,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1006',
    languageId = 10023,
@@ -1121,6 +1345,8 @@ _cfg.goods = {
   },
   [1011] = {
    id = 1011,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1001',
    languageId = 10018,
@@ -1131,6 +1357,8 @@ _cfg.goods = {
   },
   [1012] = {
    id = 1012,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1002',
    languageId = 10019,
@@ -1141,6 +1369,8 @@ _cfg.goods = {
   },
   [1013] = {
    id = 1013,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1003',
    languageId = 10020,
@@ -1151,6 +1381,8 @@ _cfg.goods = {
   },
   [1014] = {
    id = 1014,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1004',
    languageId = 10021,
@@ -1161,6 +1393,8 @@ _cfg.goods = {
   },
   [1015] = {
    id = 1015,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1005',
    languageId = 10022,
@@ -1171,6 +1405,8 @@ _cfg.goods = {
   },
   [1016] = {
    id = 1016,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1006',
    languageId = 10023,
@@ -1181,6 +1417,8 @@ _cfg.goods = {
   },
   [1021] = {
    id = 1021,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1001',
    languageId = 10018,
@@ -1191,6 +1429,8 @@ _cfg.goods = {
   },
   [1022] = {
    id = 1022,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1002',
    languageId = 10019,
@@ -1201,6 +1441,8 @@ _cfg.goods = {
   },
   [1023] = {
    id = 1023,
+   category = '装备',
+   desc = '暂无描述,待考证',
    assetBundle = 'equip_icon',
    assetName = '1003',
    languageId = 10020,

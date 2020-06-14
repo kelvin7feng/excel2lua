@@ -159,6 +159,11 @@ _cfg.language = {
    zh_hans = '强化成功',
    en = 'Equip Level Up',
   },
+  [40001] = {
+   id = 40001,
+   zh_hans = '暂时还没有奖励喔,晚点再来吧',
+   en = 'Reward is still null',
+  },
   [20001] = {
    id = 20001,
    zh_hans = '强化等级:{1}',
@@ -169,10 +174,25 @@ _cfg.language = {
    zh_hans = 'Boss来袭',
    en = 'Boss is coming',
   },
-  [2001] = {
-   id = 2001,
-   zh_hans = '玩家等级提升到{1}级',
-   en = 'level up to {1}',
+  [1102] = {
+   id = 1102,
+   zh_hans = '即将挑战Boss',
+   en = 'Boss is coming',
+  },
+  [1103] = {
+   id = 1103,
+   zh_hans = '挑战Boss',
+   en = 'Challenge Boss',
+  },
+  [1104] = {
+   id = 1104,
+   zh_hans = '准备挑战',
+   en = 'Boss is coming',
+  },
+  [1105] = {
+   id = 1105,
+   zh_hans = '挑战中',
+   en = 'Fighting',
   },
   [2002] = {
    id = 2002,
@@ -198,6 +218,11 @@ _cfg.language = {
    id = 100001,
    zh_hans = '非法参数1',
    en = 'illegal paramters1',
+  },
+  [2001] = {
+   id = 2001,
+   zh_hans = '玩家等级提升到{1}级',
+   en = 'level up to {1}',
   },
   [1001] = {
    id = 1001,
