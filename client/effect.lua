@@ -20,7 +20,7 @@ _cfg.effect = {
   [4] = {
    id = 4,
    bundleName = 'particle',
-   assetName = 'CircleBtnEffect',
+   assetName = 'Challenge',
    duration = 0,
   },
   [5] = {
