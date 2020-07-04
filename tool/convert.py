@@ -48,11 +48,11 @@ def excel2lua(src_excel_path, tgt_lua_path):
         # 保存数据索引 默认第一列为id
         cell_id = excel_sheet.cell(row, 0)
 
-        assert cell_id.ctype == 2, "found a invalid id in row [%d] !~" % (row)
+        # assert cell_id.ctype == 2, "found a invalid id in row [%d] !~" % (row)
 
         # 检查id的唯一性
         if cell_id.value in excel_data_dict:
-            print('[warning] duplicated data id: "%d", all previous value will be ignored!~' % (cell_id.value))
+            print('[warning] row:{}, duplicated data id: [{}], all previous value will be ignored!~'.format(row, cell_id.value))
 
         # row data list
         row_data_list = []
@@ -112,7 +112,12 @@ def excel2lua(src_excel_path, tgt_lua_path):
 
     # 遍历excel数据字典 按格式写入
     for k, v in excel_data_dict.items():
-        lua_export_file.write('  [%d] = {\n' % k)
+        cell_val_type = col_val_type_list[0]
+        if cell_val_type == 'string':
+            lua_export_file.write('  ["%s"] = {\n' % k)
+        else:
+            lua_export_file.write('  [%d] = {\n' % k)
+        
         for row_data in v:
             lua_export_file.write('   {0} = {1},\n'.format(row_data[0], row_data[1]))
         lua_export_file.write('  },\n')

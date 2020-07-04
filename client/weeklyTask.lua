@@ -1,0 +1,32 @@
+_cfg.weeklyTask = {
+  [1] = {
+   id = 1,
+   name = '珠光宝契',
+   desc = '升级{1}次装备',
+   target = 5,
+   order = 1,
+   rewardId = 1,
+   redirect = 0,
+   liveness = 10,
+  },
+  [2] = {
+   id = 2,
+   name = '超尘出俗',
+   desc = '击败{1}个Boss',
+   target = 25,
+   order = 3,
+   rewardId = 1,
+   redirect = 0,
+   liveness = 10,
+  },
+  [3] = {
+   id = 3,
+   name = '绿色环保',
+   desc = '种植{1}次植物',
+   target = 5,
+   order = 4,
+   rewardId = 1,
+   redirect = 3,
+   liveness = 10,
+  },
+}

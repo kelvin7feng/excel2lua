@@ -35,4 +35,10 @@ _cfg.effect = {
    assetName = 'CircleBtnEffect',
    duration = 0,
   },
+  [7] = {
+   id = 7,
+   bundleName = 'particle',
+   assetName = 'BoxEffect',
+   duration = 0,
+  },
 }

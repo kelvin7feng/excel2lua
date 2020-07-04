@@ -139,20 +139,30 @@ _cfg.language = {
    zh_hans = '材料不足',
    en = 'consume goods not enough',
   },
-  [30001] = {
-   id = 30001,
-   zh_hans = '暂不能种植',
-   en = 'Can not plant',
-  },
   [30002] = {
    id = 30002,
    zh_hans = '果实尚未成熟噢',
    en = 'Can not harvest',
   },
+  [1201] = {
+   id = 1201,
+   zh_hans = '暂未能领取奖励',
+   en = 'Can not open chest',
+  },
+  [1202] = {
+   id = 1202,
+   zh_hans = '已领取',
+   en = 'Have got',
+  },
   [100002] = {
    id = 100002,
    zh_hans = '非法参数2',
    en = 'illegal paramters2',
+  },
+  [30001] = {
+   id = 30001,
+   zh_hans = '暂不能种植',
+   en = 'Can not plant',
   },
   [20002] = {
    id = 20002,
@@ -189,10 +199,10 @@ _cfg.language = {
    zh_hans = '准备挑战',
    en = 'Boss is coming',
   },
-  [1105] = {
-   id = 1105,
-   zh_hans = '挑战中',
-   en = 'Fighting',
+  [2001] = {
+   id = 2001,
+   zh_hans = '玩家等级提升到{1}级',
+   en = 'level up to {1}',
   },
   [2002] = {
    id = 2002,
@@ -219,10 +229,10 @@ _cfg.language = {
    zh_hans = '非法参数1',
    en = 'illegal paramters1',
   },
-  [2001] = {
-   id = 2001,
-   zh_hans = '玩家等级提升到{1}级',
-   en = 'level up to {1}',
+  [1105] = {
+   id = 1105,
+   zh_hans = '挑战中',
+   en = 'Fighting',
   },
   [1001] = {
    id = 1001,
